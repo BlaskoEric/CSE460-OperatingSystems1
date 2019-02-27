@@ -1,0 +1,24 @@
+92
+
+	Process Information
+Program name: 		simple2
+Successfully Completed
+CPU Time: 		55 Ticks
+Waiting Time: 		673 Ticks
+I/O Time: 		54 Ticks
+Turnaround Time: 	0.78 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		5.976 Seconds
+CPU Time: 		14.126 Seconds
+CPU Utilization: 	99.568%
+User CPU Utilization: 	70.486%
+Throughput: 		0.497 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		278
+Page Hits: 		1678
+Hit Ratio: 		85.787
+Number of Victims 	242
+

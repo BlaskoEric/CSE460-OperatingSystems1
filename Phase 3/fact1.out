@@ -1,0 +1,24 @@
+-25216
+
+	Process Information
+Program name: 		fact1
+Successfully Completed
+CPU Time: 		4117 Ticks
+Waiting Time: 		14360 Ticks
+I/O Time: 		162 Ticks
+Turnaround Time: 	18.64 Seconds
+Largest Stack: 		48
+
+	System Information
+System Time: 		5.976 Seconds
+CPU Time: 		14.126 Seconds
+CPU Utilization: 	99.568%
+User CPU Utilization: 	70.486%
+Throughput: 		0.497 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		278
+Page Hits: 		1678
+Hit Ratio: 		85.787
+Number of Victims 	242
+

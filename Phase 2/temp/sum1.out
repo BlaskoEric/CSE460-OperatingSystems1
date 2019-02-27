@@ -1,0 +1,16 @@
+1225
+
+	Process Information
+Successfully Completed
+CPU Time: 		252 Ticks
+Waiting Time: 		0 Ticks
+I/O Time: 		54 Ticks
+Turnaround Time: 	0.31 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		0.149 Seconds
+CPU Time: 		0.252 Seconds
+CPU Utilization: 	78.571%
+User CPU Utilization: 	72.622%
+Throughput: 		2.494 Per Seconds

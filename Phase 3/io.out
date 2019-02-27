@@ -1,0 +1,29 @@
+1
+5
+9
+13
+17
+21
+
+	Process Information
+Program name: 		io
+Successfully Completed
+CPU Time: 		260 Ticks
+Waiting Time: 		1409 Ticks
+I/O Time: 		513 Ticks
+Turnaround Time: 	2.18 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		5.976 Seconds
+CPU Time: 		14.126 Seconds
+CPU Utilization: 	99.568%
+User CPU Utilization: 	70.486%
+Throughput: 		0.497 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		278
+Page Hits: 		1678
+Hit Ratio: 		85.787
+Number of Victims 	242
+

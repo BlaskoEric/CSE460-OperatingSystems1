@@ -1,0 +1,43 @@
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+	Process Information
+Program name: 		subVector
+Successfully Completed
+CPU Time: 		689 Ticks
+Waiting Time: 		11148 Ticks
+I/O Time: 		5076 Ticks
+Turnaround Time: 	16.91 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		5.976 Seconds
+CPU Time: 		14.126 Seconds
+CPU Utilization: 	99.568%
+User CPU Utilization: 	70.486%
+Throughput: 		0.497 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		278
+Page Hits: 		1678
+Hit Ratio: 		85.787
+Number of Victims 	242
+

@@ -1,0 +1,1009 @@
+1
+0
+Loading subVector.s...
+
+Running...
+
+
+********subVector
+subVector
+FRAME: 0
+45056
+subVector
+FRAME: 0
+2425
+subVector
+FRAME: 0
+45056
+subVector
+FRAME: 0
+2426
+subVector
+FRAME: 0
+45056
+subVector
+FRAME: 0
+2427
+subVector
+FRAME: 0
+45056
+subVector
+FRAME: 0
+2428
+
+********subVector
+logical: 0
+Physical : 0
+Instruction: 45056read - 1
+
+********subVector
+logical: 1
+Physical : 1
+Instruction: 2425store - 1
+address - 121
+Not in mem 
+subVector
+FRAME: 1
+49152
+subVector
+FRAME: 1
+51200
+subVector
+FRAME: 1
+51200
+subVector
+FRAME: 1
+51200
+subVector
+FRAME: 1
+51200
+subVector
+FRAME: 1
+51200
+subVector
+FRAME: 1
+51200
+subVector
+FRAME: 1
+51200
+
+********subVector
+logical: 1
+Physical : 1
+Instruction: 2425store - 1
+address - 121
+In Meme
+logical: 2
+Physical : 2
+Instruction: 45056read - 2
+
+********subVector
+logical: 3
+Physical : 3
+Instruction: 2426store - 2
+address - 122
+In Meme
+logical: 4
+Physical : 4
+Instruction: 45056read - 3
+
+********subVector
+logical: 5
+Physical : 5
+Instruction: 2427store - 3
+address - 123
+In Meme
+logical: 6
+Physical : 6
+Instruction: 45056read - 4
+
+********subVector
+logical: 7
+Physical : 7
+Instruction: 2428store - 4
+address - 124
+In Meme
+subVector
+FRAME: 2
+45056
+subVector
+FRAME: 2
+2429
+subVector
+FRAME: 2
+45056
+subVector
+FRAME: 2
+2430
+subVector
+FRAME: 2
+45056
+subVector
+FRAME: 2
+2431
+subVector
+FRAME: 2
+45056
+subVector
+FRAME: 2
+2432
+
+********subVector
+logical: 8
+Physical : 16
+Instruction: 45056read - 5
+
+********subVector
+logical: 9
+Physical : 17
+Instruction: 2429store - 5
+address - 125
+In Meme
+logical: 10
+Physical : 18
+Instruction: 45056read - 6
+
+********subVector
+logical: 11
+Physical : 19
+Instruction: 2430store - 6
+address - 126
+In Meme
+logical: 12
+Physical : 20
+Instruction: 45056read - 7
+
+********subVector
+logical: 13
+Physical : 21
+Instruction: 2431store - 7
+address - 127
+In Meme
+logical: 14
+Physical : 22
+Instruction: 45056read - 8
+
+********subVector
+logical: 15
+Physical : 23
+Instruction: 2432store - 8
+address - 128
+Not in mem 
+subVector
+FRAME: 3
+51200
+subVector
+FRAME: 3
+51200
+subVector
+FRAME: 3
+51200
+subVector
+FRAME: 3
+51200
+subVector
+FRAME: 3
+51200
+subVector
+FRAME: 3
+51200
+subVector
+FRAME: 3
+51200
+subVector
+FRAME: 3
+51200
+
+********subVector
+logical: 15
+Physical : 23
+Instruction: 2432store - 8
+address - 128
+In Meme
+subVector
+FRAME: 4
+45056
+subVector
+FRAME: 4
+2433
+subVector
+FRAME: 4
+45056
+subVector
+FRAME: 4
+2434
+subVector
+FRAME: 4
+45056
+subVector
+FRAME: 4
+2435
+subVector
+FRAME: 4
+45056
+subVector
+FRAME: 4
+2436
+
+********subVector
+logical: 16
+Physical : 32
+Instruction: 45056read - 9
+
+********subVector
+logical: 17
+Physical : 33
+Instruction: 2433store - 9
+address - 129
+In Meme
+logical: 18
+Physical : 34
+Instruction: 45056read - 10
+
+********subVector
+logical: 19
+Physical : 35
+Instruction: 2434store - 10
+address - 130
+In Meme
+logical: 20
+Physical : 36
+Instruction: 45056read - 2
+
+********subVector
+logical: 21
+Physical : 37
+Instruction: 2435store - 2
+address - 131
+In Meme
+logical: 22
+Physical : 38
+Instruction: 45056read - 4
+
+********subVector
+logical: 23
+Physical : 39
+Instruction: 2436store - 4
+address - 132
+In Meme
+subVector
+FRAME: 5
+45056
+subVector
+FRAME: 5
+2437
+subVector
+FRAME: 5
+45056
+subVector
+FRAME: 5
+2438
+subVector
+FRAME: 5
+45056
+subVector
+FRAME: 5
+2439
+subVector
+FRAME: 5
+45056
+subVector
+FRAME: 5
+2440
+
+********subVector
+logical: 24
+Physical : 40
+Instruction: 45056read - 6
+
+********subVector
+logical: 25
+Physical : 41
+Instruction: 2437store - 6
+address - 133
+In Meme
+logical: 26
+Physical : 42
+Instruction: 45056read - 8
+
+********subVector
+logical: 27
+Physical : 43
+Instruction: 2438store - 8
+address - 134
+In Meme
+logical: 28
+Physical : 44
+Instruction: 45056read - 10
+
+********subVector
+logical: 29
+Physical : 45
+Instruction: 2439store - 10
+address - 135
+In Meme
+logical: 30
+Physical : 46
+Instruction: 45056read - 12
+
+********subVector
+logical: 31
+Physical : 47
+Instruction: 2440store - 12
+address - 136
+Not in mem 
+subVector
+FRAME: 6
+51200
+subVector
+FRAME: 6
+51200
+subVector
+FRAME: 6
+51200
+subVector
+FRAME: 6
+51200
+subVector
+FRAME: 6
+51200
+subVector
+FRAME: 6
+51200
+subVector
+FRAME: 6
+0
+subVector
+FRAME: 6
+0
+
+********subVector
+logical: 31
+Physical : 47
+Instruction: 2440store - 12
+address - 136
+In Meme
+subVector
+FRAME: 7
+0
+subVector
+FRAME: 7
+0
+subVector
+FRAME: 7
+0
+subVector
+FRAME: 7
+0
+subVector
+FRAME: 7
+0
+subVector
+FRAME: 7
+0
+subVector
+FRAME: 7
+0
+subVector
+FRAME: 7
+0
+
+********subVector
+logical: 32
+Physical : 56
+Instruction: 0load - 0
+In mem
+logical: 33
+Physical : 57
+Instruction: 0load - 0
+In mem
+logical: 34
+Physical : 58
+Instruction: 0load - 0
+In mem
+logical: 35
+Physical : 59
+Instruction: 0load - 0
+In mem
+logical: 36
+Physical : 60
+Instruction: 0load - 0
+In mem
+logical: 37
+Physical : 61
+Instruction: 0load - 0
+In mem
+logical: 38
+Physical : 62
+Instruction: 0load - 0
+In mem
+logical: 39
+Physical : 63
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 8
+0
+subVector
+FRAME: 8
+0
+subVector
+FRAME: 8
+0
+subVector
+FRAME: 8
+0
+subVector
+FRAME: 8
+0
+subVector
+FRAME: 8
+0
+subVector
+FRAME: 8
+0
+subVector
+FRAME: 8
+0
+
+********subVector
+logical: 40
+Physical : 64
+Instruction: 0load - 0
+In mem
+logical: 41
+Physical : 65
+Instruction: 0load - 0
+In mem
+logical: 42
+Physical : 66
+Instruction: 0load - 0
+In mem
+logical: 43
+Physical : 67
+Instruction: 0load - 0
+In mem
+logical: 44
+Physical : 68
+Instruction: 0load - 0
+In mem
+logical: 45
+Physical : 69
+Instruction: 0load - 0
+In mem
+logical: 46
+Physical : 70
+Instruction: 0load - 0
+In mem
+logical: 47
+Physical : 71
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 9
+0
+subVector
+FRAME: 9
+0
+subVector
+FRAME: 9
+0
+subVector
+FRAME: 9
+0
+subVector
+FRAME: 9
+0
+subVector
+FRAME: 9
+0
+subVector
+FRAME: 9
+0
+subVector
+FRAME: 9
+0
+
+********subVector
+logical: 48
+Physical : 72
+Instruction: 0load - 0
+In mem
+logical: 49
+Physical : 73
+Instruction: 0load - 0
+In mem
+logical: 50
+Physical : 74
+Instruction: 0load - 0
+In mem
+logical: 51
+Physical : 75
+Instruction: 0load - 0
+In mem
+logical: 52
+Physical : 76
+Instruction: 0load - 0
+In mem
+logical: 53
+Physical : 77
+Instruction: 0load - 0
+In mem
+logical: 54
+Physical : 78
+Instruction: 0load - 0
+In mem
+logical: 55
+Physical : 79
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 10
+0
+subVector
+FRAME: 10
+0
+subVector
+FRAME: 10
+0
+subVector
+FRAME: 10
+0
+subVector
+FRAME: 10
+0
+subVector
+FRAME: 10
+0
+subVector
+FRAME: 10
+0
+subVector
+FRAME: 10
+0
+
+********subVector
+logical: 56
+Physical : 80
+Instruction: 0load - 0
+In mem
+logical: 57
+Physical : 81
+Instruction: 0load - 0
+In mem
+logical: 58
+Physical : 82
+Instruction: 0load - 0
+In mem
+logical: 59
+Physical : 83
+Instruction: 0load - 0
+In mem
+logical: 60
+Physical : 84
+Instruction: 0load - 0
+In mem
+logical: 61
+Physical : 85
+Instruction: 0load - 0
+In mem
+logical: 62
+Physical : 86
+Instruction: 0load - 0
+In mem
+logical: 63
+Physical : 87
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 11
+0
+subVector
+FRAME: 11
+0
+subVector
+FRAME: 11
+0
+subVector
+FRAME: 11
+0
+subVector
+FRAME: 11
+0
+subVector
+FRAME: 11
+0
+subVector
+FRAME: 11
+0
+subVector
+FRAME: 11
+0
+
+********subVector
+logical: 64
+Physical : 88
+Instruction: 0load - 0
+In mem
+logical: 65
+Physical : 89
+Instruction: 0load - 0
+In mem
+logical: 66
+Physical : 90
+Instruction: 0load - 0
+In mem
+logical: 67
+Physical : 91
+Instruction: 0load - 0
+In mem
+logical: 68
+Physical : 92
+Instruction: 0load - 0
+In mem
+logical: 69
+Physical : 93
+Instruction: 0load - 0
+In mem
+logical: 70
+Physical : 94
+Instruction: 0load - 0
+In mem
+logical: 71
+Physical : 95
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 12
+0
+subVector
+FRAME: 12
+0
+subVector
+FRAME: 12
+0
+subVector
+FRAME: 12
+0
+subVector
+FRAME: 12
+0
+subVector
+FRAME: 12
+0
+subVector
+FRAME: 12
+0
+subVector
+FRAME: 12
+0
+
+********subVector
+logical: 72
+Physical : 96
+Instruction: 0load - 0
+In mem
+logical: 73
+Physical : 97
+Instruction: 0load - 0
+In mem
+logical: 74
+Physical : 98
+Instruction: 0load - 0
+In mem
+logical: 75
+Physical : 99
+Instruction: 0load - 0
+In mem
+logical: 76
+Physical : 100
+Instruction: 0load - 0
+In mem
+logical: 77
+Physical : 101
+Instruction: 0load - 0
+In mem
+logical: 78
+Physical : 102
+Instruction: 0load - 0
+In mem
+logical: 79
+Physical : 103
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 13
+0
+subVector
+FRAME: 13
+0
+subVector
+FRAME: 13
+0
+subVector
+FRAME: 13
+0
+subVector
+FRAME: 13
+0
+subVector
+FRAME: 13
+0
+subVector
+FRAME: 13
+0
+subVector
+FRAME: 13
+0
+
+********subVector
+logical: 80
+Physical : 104
+Instruction: 0load - 0
+In mem
+logical: 81
+Physical : 105
+Instruction: 0load - 0
+In mem
+logical: 82
+Physical : 106
+Instruction: 0load - 0
+In mem
+logical: 83
+Physical : 107
+Instruction: 0load - 0
+In mem
+logical: 84
+Physical : 108
+Instruction: 0load - 0
+In mem
+logical: 85
+Physical : 109
+Instruction: 0load - 0
+In mem
+logical: 86
+Physical : 110
+Instruction: 0load - 0
+In mem
+logical: 87
+Physical : 111
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 14
+0
+subVector
+FRAME: 14
+0
+subVector
+FRAME: 14
+0
+subVector
+FRAME: 14
+0
+subVector
+FRAME: 14
+0
+subVector
+FRAME: 14
+0
+subVector
+FRAME: 14
+0
+subVector
+FRAME: 14
+0
+
+********subVector
+logical: 88
+Physical : 112
+Instruction: 0load - 0
+In mem
+logical: 89
+Physical : 113
+Instruction: 0load - 0
+In mem
+logical: 90
+Physical : 114
+Instruction: 0load - 0
+In mem
+logical: 91
+Physical : 115
+Instruction: 0load - 0
+In mem
+logical: 92
+Physical : 116
+Instruction: 0load - 0
+In mem
+logical: 93
+Physical : 117
+Instruction: 0load - 0
+In mem
+logical: 94
+Physical : 118
+Instruction: 0load - 0
+In mem
+logical: 95
+Physical : 119
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 15
+0
+subVector
+FRAME: 15
+0
+subVector
+FRAME: 15
+0
+subVector
+FRAME: 15
+0
+subVector
+FRAME: 15
+0
+subVector
+FRAME: 15
+0
+subVector
+FRAME: 15
+0
+subVector
+FRAME: 15
+0
+
+********subVector
+logical: 96
+Physical : 120
+Instruction: 0load - 0
+In mem
+logical: 97
+Physical : 121
+Instruction: 0load - 0
+In mem
+logical: 98
+Physical : 122
+Instruction: 0load - 0
+In mem
+logical: 99
+Physical : 123
+Instruction: 0load - 0
+In mem
+logical: 100
+Physical : 124
+Instruction: 0load - 0
+In mem
+logical: 101
+Physical : 125
+Instruction: 0load - 0
+In mem
+logical: 102
+Physical : 126
+Instruction: 0load - 0
+In mem
+logical: 103
+Physical : 127
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 16
+0
+subVector
+FRAME: 16
+0
+subVector
+FRAME: 16
+0
+subVector
+FRAME: 16
+0
+subVector
+FRAME: 16
+0
+subVector
+FRAME: 16
+0
+subVector
+FRAME: 16
+0
+subVector
+FRAME: 16
+0
+
+********subVector
+logical: 104
+Physical : 128
+Instruction: 0load - 0
+In mem
+logical: 105
+Physical : 129
+Instruction: 0load - 0
+In mem
+logical: 106
+Physical : 130
+Instruction: 0load - 0
+In mem
+logical: 107
+Physical : 131
+Instruction: 0load - 0
+In mem
+logical: 108
+Physical : 132
+Instruction: 0load - 0
+In mem
+logical: 109
+Physical : 133
+Instruction: 0load - 0
+In mem
+logical: 110
+Physical : 134
+Instruction: 0load - 0
+In mem
+logical: 111
+Physical : 135
+Instruction: 0load - 0
+In mem
+subVector
+FRAME: 17
+0
+subVector
+FRAME: 17
+0
+subVector
+FRAME: 17
+0
+subVector
+FRAME: 17
+0
+subVector
+FRAME: 17
+0
+subVector
+FRAME: 17
+0
+subVector
+FRAME: 17
+0
+subVector
+FRAME: 17
+0
+
+********subVector
+logical: 112
+Physical : 136
+Instruction: 0load - 0
+In mem
+logical: 113
+Physical : 137
+Instruction: 0load - 0
+In mem
+logical: 114
+Physical : 138
+Instruction: 0load - 0
+In mem
+logical: 115
+Physical : 139
+Instruction: 0load - 0
+In mem
+logical: 116
+Physical : 140
+Instruction: 0load - 0
+In mem
+logical: 117
+Physical : 141
+Instruction: 0load - 0
+In mem
+logical: 118
+Physical : 142
+Instruction: 0load - 0
+In mem
+logical: 119
+Physical : 143
+Instruction: 0load - 0
+In mem
+logical: 120
+Physical : 8
+Instruction: 49152Halt
+subVector Completed
+
+Closing subVector...

@@ -1,0 +1,263 @@
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+
+	Process Information
+Program name: 		addVector
+Successfully Completed
+CPU Time: 		151 Ticks
+Waiting Time: 		1742 Ticks
+I/O Time: 		1215 Ticks
+Turnaround Time: 	3.11 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+720
+
+	Process Information
+Program name: 		fact1
+Successfully Completed
+CPU Time: 		729 Ticks
+Waiting Time: 		2034 Ticks
+I/O Time: 		162 Ticks
+Turnaround Time: 	2.92 Seconds
+Largest Stack: 		36
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+-25216
+
+	Process Information
+Program name: 		fact2
+Successfully Completed
+CPU Time: 		1009 Ticks
+Waiting Time: 		2590 Ticks
+I/O Time: 		162 Ticks
+Turnaround Time: 	3.76 Seconds
+Largest Stack: 		48
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+1
+5
+9
+13
+17
+21
+
+	Process Information
+Program name: 		io
+Successfully Completed
+CPU Time: 		56 Ticks
+Waiting Time: 		721 Ticks
+I/O Time: 		513 Ticks
+Turnaround Time: 	1.29 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+12
+
+	Process Information
+Program name: 		simple1
+Successfully Completed
+CPU Time: 		18 Ticks
+Waiting Time: 		42 Ticks
+I/O Time: 		54 Ticks
+Turnaround Time: 	0.11 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+92
+
+	Process Information
+Program name: 		simple2
+Successfully Completed
+CPU Time: 		15 Ticks
+Waiting Time: 		178 Ticks
+I/O Time: 		54 Ticks
+Turnaround Time: 	0.25 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+3
+
+	Process Information
+Program name: 		sub
+Successfully Completed
+CPU Time: 		5 Ticks
+Waiting Time: 		375 Ticks
+I/O Time: 		54 Ticks
+Turnaround Time: 	0.43 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+	Process Information
+Program name: 		subVector
+Successfully Completed
+CPU Time: 		265 Ticks
+Waiting Time: 		2432 Ticks
+I/O Time: 		2187 Ticks
+Turnaround Time: 	4.88 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+1225
+
+	Process Information
+Program name: 		sum1
+Successfully Completed
+CPU Time: 		282 Ticks
+Waiting Time: 		2744 Ticks
+I/O Time: 		216 Ticks
+Turnaround Time: 	3.24 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
+5050
+
+	Process Information
+Program name: 		sum2
+Successfully Completed
+CPU Time: 		512 Ticks
+Waiting Time: 		3797 Ticks
+I/O Time: 		81 Ticks
+Turnaround Time: 	4.39 Seconds
+Largest Stack: 		0
+
+	System Information
+System Time: 		2.507 Seconds
+CPU Time: 		3.042 Seconds
+CPU Utilization: 	73.800%
+User CPU Utilization: 	64.015%
+Throughput: 		1.802 Per Seconds
+
+	Algorithm type: LRU
+Page Faults: 		54
+Page Hits: 		2075
+Hit Ratio: 		97.464
+
