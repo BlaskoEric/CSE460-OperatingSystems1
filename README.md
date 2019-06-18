@@ -1,6 +1,6 @@
 # CSE460-OperatingSystems1
 CSE460 Operating Systems 1
-With Dr. Zemoudeh
+With Dr. Kay Zemoudeh
 
 # Project
 Design and developing of a simple 16-bit operating system with 512B virtual memory using C++.
